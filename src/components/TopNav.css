@@ -1,0 +1,10 @@
+.navbar {
+    position: static;
+    align-items: center;
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}

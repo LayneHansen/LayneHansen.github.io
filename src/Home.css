@@ -1,0 +1,18 @@
+.background-image {
+  position: relative;
+}
+
+#project-text {
+  /* position: absolute; */
+  display: none;
+  /* top: 25%;
+  left: 33%; */
+}
+
+#project-text:hover {
+  position: absolute;
+  display: block;
+  top: 25%;
+  left: 33%;
+}
+

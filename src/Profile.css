@@ -1,0 +1,71 @@
+.row1-container {
+    padding-top: 25px;
+}
+
+.row2-container {
+    padding-top: 25px;
+}
+
+#image_container {
+    
+    padding-right: 400px;
+}
+
+#profile-image {
+    border-radius: 1px;
+    border: solid white 10px;
+    box-shadow: 10px 10px 5px;
+}
+
+h1 {
+    color: rgb(77, 129, 150);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+#name-header {
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    color: #7FC764;
+    /* color: #02AAEB; */
+    font-weight: 600;
+    text-shadow: 3px 3px rgb(57, 56, 56);
+}
+
+.profile-text {
+    color: white;
+    text-align: justify;
+}
+
+#react-logo {
+    border: solid white 1px;
+    border-radius: 5px;
+    padding-right: 3px;
+}
+
+#bootstrap-logo {
+    border: solid white 1px;
+    border-radius: 5px;
+}
+
+#node-logo {
+    padding-left: 5px;
+    padding-top: 4px;
+}
+
+#express-logo {
+padding-left: 12px;
+}
+
+#mongodb-logo {
+    padding-left: 10px;
+}
+
+#mern-logo {
+    padding-left: 10px;
+}
+
+#sql-logo {
+    padding-left: 10px;
+    padding-top: 4px;
+}
