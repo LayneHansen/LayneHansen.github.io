@@ -1,7 +1,7 @@
 {
   "name": "hansen-react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://laynehansen.github.io/laynehansen.github.io",
+  "homepage": "https://laynehansen.github.io/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
