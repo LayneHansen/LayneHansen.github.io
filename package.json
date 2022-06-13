@@ -1,7 +1,7 @@
 {
   "name": "hansen-react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://laynehansen.dev",
+  "homepage": "laynehansen.github.io",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
@@ -18,8 +18,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "npm run build && gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "start": "react-scripts --openssl-legacy-provider start",
