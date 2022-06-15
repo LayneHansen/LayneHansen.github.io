@@ -15,13 +15,13 @@ return (
     <Router>
       <TopNav />
       <Container>
-      </Container>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/profile" element={<Profile />} />
       </Routes>
+      </Container>
     </Router>
   );
 }
