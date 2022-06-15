@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "c8c8e750ed2a313c0856",
-    "url": "/static/css/main.6d3550a8.chunk.css"
+    "revision": "d9e427d7356c35455180",
+    "url": "/static/css/main.c2c4060d.chunk.css"
   },
   {
-    "revision": "c8c8e750ed2a313c0856",
-    "url": "/static/js/main.c8c8e750.chunk.js"
+    "revision": "d9e427d7356c35455180",
+    "url": "/static/js/main.d9e427d7.chunk.js"
   },
   {
-    "revision": "6c298879578d989ac635",
-    "url": "/static/js/1.6c298879.chunk.js"
+    "revision": "7c3a65213770f447e0f5",
+    "url": "/static/js/1.7c3a6521.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -88,7 +88,11 @@ self.__precacheManifest = [
     "url": "/static/media/mernlogo.1091d3fc.png"
   },
   {
-    "revision": "e5bcf9810675a41cbe86b3f6dacecff5",
+    "revision": "e3702f05b3868bb7e073a29cfb281dd5",
+    "url": "/static/media/workDeskImage4.e3702f05.jpg"
+  },
+  {
+    "revision": "272989cae97fe21a912596f7cc7e0d7c",
     "url": "/index.html"
   }
 ];
