@@ -1,7 +1,7 @@
 import "./App.css";
 import { useState } from "react";
 import { Container } from "react-bootstrap";
-import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
+import { HashRouter as Router, Route, Routes, Link } from "react-router-dom";
 import TopNav from "../src/components/TopNav";
 import Home from "./Home";
 import Projects from "./Projects";
