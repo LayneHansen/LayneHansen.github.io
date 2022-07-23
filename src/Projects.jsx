@@ -10,7 +10,7 @@ function Projects() {
   return (
     <div className="App">
 
-      <Row>
+      {/* <Row>
         <Col md={2}>
         </Col>
         <Col md={8}>
@@ -18,12 +18,14 @@ function Projects() {
         </Col>
         <Col md={2}>
         </Col>
-      </Row>
+      </Row> */}
+
+      <h1 id="projects-title">Projects</h1>
 
       <Row>
-        <Col md={2}></Col>
+        {/* <Col md={2}></Col> */}
 
-        <Col md={2}>
+        <Col md={3}>
           <Card style={{ width: "18rem" }} id="sure-vote-card">
             <a
               href="https://young-journey-30565.herokuapp.com/"
@@ -61,7 +63,7 @@ function Projects() {
           </Card>
         </Col>
 
-        <Col md={2}>
+        <Col md={3}>
           <Card style={{ width: "18rem" }} id="remember-them-card">
             <a
               href="https://protected-forest-25007.herokuapp.com/"
@@ -99,7 +101,7 @@ function Projects() {
           </Card>
         </Col>
 
-        <Col md={2}>
+        <Col md={3}>
           <Card style={{ width: "18rem" }} id="streaming-guide-card">
             <a
               href="https://imbingz.github.io/Ultimate-Streaming-Guide/"
@@ -138,7 +140,7 @@ function Projects() {
           </Card>
         </Col>
 
-        <Col md={2}>
+        <Col md={3}>
           <Card style={{ width: "18rem" }} id="password-generator-card">
             <a
               href="https://laynehansen.github.io/password_generator/"
@@ -178,7 +180,7 @@ function Projects() {
           </Card>
         </Col>
 
-        <Col md={2}></Col>
+        {/* <Col md={2}></Col> */}
       </Row>
 
       <br />

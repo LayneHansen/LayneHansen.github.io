@@ -16,6 +16,10 @@ body {
     border: solid 2px darkgrey;
 }
 
+.col-md-3 {
+    padding-left: 100px;
+}
+
 .card:hover {
     border: solid 2px darkgrey;
     transform: scale(1.05);

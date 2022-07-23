@@ -1,7 +1,7 @@
 import "./App.css";
 import { useState } from "react";
 import { Container } from "react-bootstrap";
-import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
+import { HashRouter, Route, Routes, Link } from "react-router-dom";
 import TopNav from "../src/components/TopNav";
 import Home from "./Home";
 import Projects from "./Projects";
@@ -12,7 +12,7 @@ import React from "react";
 
 function App() {
 return (
-    <Router>
+    <HashRouter hashType="slash">
       <TopNav />
       <Container>
       <Routes>
@@ -22,7 +22,7 @@ return (
         <Route path="/profile" element={<Profile />} />
       </Routes>
       </Container>
-    </Router>
+    </HashRouter>
   );
 }
 
