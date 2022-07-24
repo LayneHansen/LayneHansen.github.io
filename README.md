@@ -1,4 +1,4 @@
-# LayneHansen.github.io# **MY PORTFOLIO**
+# LayneHansen.github.io#
 
 ### Table of Contents
 
