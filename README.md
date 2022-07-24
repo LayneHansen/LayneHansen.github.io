@@ -19,7 +19,7 @@ The purpose of this page is to display myself and my work as a web developer. Th
 
 ### **Main Page**
 
-On the main page I utilize the html map feature to create clickable fields to take the user to different pages.
+On the main page I utilize the html map feature to create clickable fields to take the user to different pages. I like a clean look to my pages and want the user to be clear about where they want to go. Although the images are clickable and lead to the different landing pages, I have included a dropdown menu that also allows them to navigate to those pages.
 
 #### ***link*** 
 https://laynehansen.github.io/
@@ -50,7 +50,7 @@ https://laynehansen.github.io/contact
 
 ### **Projects**
 
-I have created several projects, but have included only these few. Outside of a private project I am working on, I consider these four to be my best work.
+I have created several projects, but have included only these few. Outside of a private project I am working on, I consider these four to be my best work. At the bottom I have created links to the live sites, my github repositories for the given projects, and included information about the projects and my specifice roles in bringing them to life.
 
 #### ***link***
 https://laynehansen.github.io/projects
