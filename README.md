@@ -26,7 +26,7 @@ On the main page I utilize the html map feature to create clickable fields to ta
 https://laynehansen.github.io/
 
 #### ***screenshot*** 
-![main page](./assets/New_Portfolio_main_page.png)
+![main page](./src/assets/New_Portfolio_main_page.png)
 
 ### **Profile**
 
@@ -37,7 +37,7 @@ https://laynehansen.github.io/profile
 
 #### ***screenshot***
 
-![profile page](./assets/New_Portfolio_profile_page.png)
+![profile page](./src/assets/New_Portfolio_profile_page.png)
 
 ### **Contact** 
 
@@ -47,7 +47,7 @@ I used icons as links to my Github profile, LinkedIn, and I created a Facebook p
 https://laynehansen.github.io/contact
 
 #### ***screenshot***
-![contact page](./assets/New_Portfolio_contact_page.png)
+![contact page](./src/assets/New_Portfolio_contact_page.png)
 
 ### **Projects**
 
@@ -57,7 +57,7 @@ I have created several projects, but have included only these few. Outside of a 
 https://laynehansen.github.io/projects
 
 #### ***screenshot***
-![portfolio](./assets/New_Portfolio_projects_page.png)
+![portfolio](./src/assets/New_Portfolio_main_page.png)
 
 ----
 
