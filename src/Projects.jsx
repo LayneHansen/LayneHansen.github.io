@@ -177,7 +177,7 @@ function Projects() {
                 upper and lower case letters, special symbols, numbers.
               </Card.Text>
               <Card.Text>
-                My Role: This was my initially a homework assignment for my web 
+                My Role: This was initially a homework assignment for my web 
                 development bootcamp. The assignment was to generate the random 
                 password but I took the design to a higher level.
               </Card.Text>
