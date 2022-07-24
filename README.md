@@ -57,7 +57,7 @@ I have created several projects, but have included only these few. Outside of a 
 https://laynehansen.github.io/projects
 
 #### ***screenshot***
-![portfolio](./src/assets/New_Portfolio_main_page.png)
+![portfolio](./src/assets/New_Portfolio_projects_page.png)
 
 ----
 
