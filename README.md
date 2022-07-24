@@ -10,7 +10,6 @@
 - [Portfolio](https://github.com/LayneHansen/LayneHansen.github.io#projects)<br>
 
 [What I've Learned](https://github.com/LayneHansen/LayneHansen.github.io#what-ive-learned)<br>
-[Credits](https://github.com/LayneHansen/LayneHansen.github.io#main-page-images)
 
 ## **Purpose**
 
