@@ -41,6 +41,12 @@ function Projects() {
                 facial recognition technology for secure voting. Sure Vote was
                 built using the MERN (Mongo, Express, React, Node) paradigm.
               </Card.Text>
+              <Card.Text>
+                My Role: This was my initial concept, worked with a partner on 
+                the front end design, created the secure ballot and dummy data,
+                and created user and ballot database models.
+              </Card.Text>
+
               <Button
                 id="website-button"
                 variant="secondary"
@@ -80,6 +86,12 @@ function Projects() {
                 fallen hero, find military-related movies and books, or
                 participate in a forum.
               </Card.Text>
+              <Card.Text>
+                My Role: This was my initial concept; assisted with all aspects 
+                of project, but main task was front end design and development.
+                Created additional pages and assisted with connecting to APIs.
+              </Card.Text>
+
               <Button
                 id="website-button"
                 variant="secondary"
@@ -120,6 +132,12 @@ function Projects() {
                 on dozens of services. It was built with HTML, CSS, and
                 Javascript.
               </Card.Text>
+              <Card.Text>
+                My Role: This was my initial concept, worked on initial design 
+                and partnered on front end development; created modal that displays
+                movie titles; created commercial to market the site.
+              </Card.Text>
+
               <Button 
               id="website-button" 
               variant="secondary"
@@ -158,6 +176,12 @@ function Projects() {
                 allows users to generate a unique password to their specs, i.e.,
                 upper and lower case letters, special symbols, numbers.
               </Card.Text>
+              <Card.Text>
+                My Role: This was my initially a homework assignment for my web 
+                development bootcamp. The assignment was to generate the random 
+                password but I took the design to a higher level.
+              </Card.Text>
+
               <Button
                 class="btn btn-md btn-block"
                 id="website-button"
