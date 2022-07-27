@@ -10,17 +10,26 @@ function Home() {
         <img
           src={workDeskImage}
           width="1730"
-          useMap="#deskmap"
+          // useMap="#deskmap"
           alt="Work desk with laptop, phone, and glasses."
         />
       </div>
-      <map name="deskmap">
+      <Link to="/Contact">
+        <img src={workDeskImage} alt="" />
+      </Link>
+      <Link to="/Projects">
+        <img src={workDeskImage} alt="" />
+      </Link>
+      <Link to="/Profile">
+        <img src={workDeskImage} alt="" />
+      </Link>
+      {/* <map name="deskmap">
         <div id="computer-area">
           <area
             id="computer-image"
             shape="poly"
             coords="0,0,315,0,685,725,685,755,680,770,670,780,0,1120"
-            as={Link} to={"/Projects"}
+            // as={Link} to={"/Projects"}
             href="/Projects"
             alt="computer"
             data-hover="projects"
@@ -31,7 +40,7 @@ function Home() {
             id="phone-image"
             shape="poly"
             coords="620,210,850,155,870,160,890,180,1030,715,1013,743,990,770,770,805,760,810,730,775,605,270,615,215"
-            as={Link} to={"/Contact"}
+            // as={Link} to={"/Contact"}
             href="/Contact"
             alt="phone"
           />
@@ -41,12 +50,12 @@ function Home() {
             id="glasses-image"
             shape="poly"
             coords="1055,305,1235,270,1275,865,1100,850"
-            as={Link} to={"/Profile"}
+            // as={Link} to={"/Profile"}
             href="/Profile"
             alt="glasses"
           />
         </div>
-      </map>
+      </map> */}
     </Container>
   );
 }
