@@ -10,10 +10,10 @@ function TopNav() {
         <Navbar.Brand href="/">Layne Hansen</Navbar.Brand>
         <Nav className="me-auto">
           <NavDropdown title="Pages">
-            <NavDropdown.Item as={Link} to="/">Home</NavDropdown.Item>
-            <NavDropdown.Item as={Link} to="/Projects">Projects</NavDropdown.Item>
-            <NavDropdown.Item as={Link} to="/Profile">Profile</NavDropdown.Item>
-            <NavDropdown.Item as={Link} to="/Contact">Contact Me</NavDropdown.Item>
+            <NavDropdown.Item as={Link} to={"/"}>Home</NavDropdown.Item>
+            <NavDropdown.Item as={Link} to={"/Projects"}>Projects</NavDropdown.Item>
+            <NavDropdown.Item as={Link} to={"/Profile"}>Profile</NavDropdown.Item>
+            <NavDropdown.Item as={Link} to={"/Contact"}>Contact Me</NavDropdown.Item>
           </NavDropdown>
         </Nav>
       </Container>
