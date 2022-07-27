@@ -1,6 +1,6 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-// import { useState } from "react";
+import { Link } from 'react-router-dom';
 import workDeskImage from "../src/assets/workDeskImage5.jpg";
 
 function Home() {
@@ -20,7 +20,8 @@ function Home() {
             id="computer-image"
             shape="poly"
             coords="0,0,315,0,685,725,685,755,680,770,670,780,0,1120"
-            href="/projects"
+            as={Link} to={"/Projects"}
+            //href="/projects"
             alt="computer"
             data-hover="projects"
           />
@@ -30,7 +31,8 @@ function Home() {
             id="phone-image"
             shape="poly"
             coords="620,210,850,155,870,160,890,180,1030,715,1013,743,990,770,770,805,760,810,730,775,605,270,615,215"
-            href="/contact"
+            as={Link} to={"/Contact"}
+            // href="/contact"
             alt="phone"
           />
         </div>
@@ -39,7 +41,8 @@ function Home() {
             id="glasses-image"
             shape="poly"
             coords="1055,305,1235,270,1275,865,1100,850"
-            href="/profile"
+            as={Link} to={"/Profile"}
+            // href="/profile"
             alt="glasses"
           />
         </div>
