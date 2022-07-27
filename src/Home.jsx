@@ -10,7 +10,7 @@ function Home() {
         <img
           src={workDeskImage}
           width="1730"
-          usemap="#deskmap"
+          useMap="#deskmap"
           alt="Work desk with laptop, phone, and glasses."
         />
       </div>
