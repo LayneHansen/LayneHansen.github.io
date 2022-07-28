@@ -1,61 +1,37 @@
 import React from "react";
-import { Container } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import { Link } from 'react-router-dom';
-import workDeskImage from "../src/assets/workDeskImage5.jpg";
+import profileIcon from "../src/assets/images/painted-icon-trans.png";
+import projectIcon from "../src/assets/images/web_dev_icon.png";
+import contactIcon from "../src/assets/images/contact-icon.png";
+// import workDeskImage from "../src/assets/workDeskImage5.jpg";
 
 function Home() {
   return (
     <Container>
-      <div className="background-image">
-        <img
-          src={workDeskImage}
-          width="1730"
-          // useMap="#deskmap"
-          alt="Work desk with laptop, phone, and glasses."
-        />
-      </div>
-      <Link to="/Contact">
-        <img src={workDeskImage} alt="" />
-      </Link>
-      <Link to="/Projects">
-        <img src={workDeskImage} alt="" />
-      </Link>
-      <Link to="/Profile">
-        <img src={workDeskImage} alt="" />
-      </Link>
-      {/* <map name="deskmap">
-        <div id="computer-area">
-          <area
-            id="computer-image"
-            shape="poly"
-            coords="0,0,315,0,685,725,685,755,680,770,670,780,0,1120"
-            // as={Link} to={"/Projects"}
-            href="/Projects"
-            alt="computer"
-            data-hover="projects"
-          />
-        </div>
-        <div id="phone-area">
-          <area
-            id="phone-image"
-            shape="poly"
-            coords="620,210,850,155,870,160,890,180,1030,715,1013,743,990,770,770,805,760,810,730,775,605,270,615,215"
-            // as={Link} to={"/Contact"}
-            href="/Contact"
-            alt="phone"
-          />
-        </div>
-        <div id="glasses-area">
-          <area
-            id="glasses-image"
-            shape="poly"
-            coords="1055,305,1235,270,1275,865,1100,850"
-            // as={Link} to={"/Profile"}
-            href="/Profile"
-            alt="glasses"
-          />
-        </div>
-      </map> */}
+      <br />
+      <Row>
+        <Col md={2}></Col>
+        <Col md={2}>
+          <div classname="profile-link">
+            <a href="/Profile">
+            <img src={profileIcon} alt="" width="300px"/>
+            </a>
+            <h4>About Me</h4>
+          </div>
+        </Col>
+        <Col md={1}></Col>
+        <Col md={2}>
+          <img src={projectIcon} alt="" width="250px"/>
+          <h4>Projects</h4>
+        </Col>
+        <Col md={1}></Col>
+        <Col md={2}>
+        <img src={contactIcon} alt="" width="240px"/>
+          <h4>Contact Me</h4>
+        </Col>
+        <Col md={2}></Col>
+      </Row>
     </Container>
   );
 }
