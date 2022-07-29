@@ -7,7 +7,7 @@ function TopNav() {
   return (
     <Navbar bg="dark" variant="dark">
       <Container>
-        <Navbar.Brand href="/">Layne Hansen</Navbar.Brand>
+        <Navbar.Brand href="/">LH</Navbar.Brand>
         <Nav className="me-auto">
           <NavDropdown title="Pages">
             <NavDropdown.Item as={Link} to={"/"}>Home</NavDropdown.Item>

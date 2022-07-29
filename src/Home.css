@@ -17,3 +17,108 @@
   left: 33%;
 }
 
+h4 {
+  color: white;
+}
+
+#name-is-span {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+#profile-link {
+  
+}
+
+#projects-link {
+  padding-left: 20px;
+}
+
+#contact-link {
+
+}
+
+#profile-icon {
+  
+}
+
+#projects-icon {
+  padding-left: 20px;
+}
+
+#contact-icon {
+  padding-left: 10px;
+}
+
+#name-span {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  font-weight: 900;
+  padding-top: -20px;
+  text-shadow: 3px 3px rgb(33, 33, 33);
+}
+
+.tagline-span {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-shadow: 2px 2px rgb(33, 33, 33);
+  background-color: rgba(37, 37, 37, 0.551);
+}
+
+#designer-span {
+  color: rgb(90, 166, 221);
+}
+
+#developer-span {
+  color: rgb(204, 115, 115);
+  padding-left: 115px;
+}
+
+#dad-span {
+  padding-left: 115px;
+  color: rgb(88, 170, 88);
+}
+
+#dude-span {
+  padding-left: 115px;
+  color: rgb(182, 178, 178);
+}
+
+#profile-header {
+  padding-left: 20px;
+}
+
+/* #profile-header:hover {
+  display: block;
+  color: white;
+}  */
+
+#projects-header {
+  padding-left: 30px;
+}
+
+/* #projects-header:hover {
+  display: block;
+  color: white;
+} */
+
+#contact-header {
+  padding-left: 15px;
+}
+
+/* #contact-header:hover {
+  display: block;
+  color: white;
+}  */
+
+#homepage-text {
+  padding-top: 12px;
+  color: white;
+  font-size: 16px;
+  text-align: justify;
+}
