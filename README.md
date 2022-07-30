@@ -22,7 +22,7 @@ The purpose of this page is to display myself and my work as a web developer. Th
 On the main page I utilize the html map feature to create clickable fields to take the user to different pages. I like a clean look to my pages and want the user to be clear about where they want to go. Although the images are clickable and lead to the different landing pages, I have included a dropdown menu that also allows them to navigate to those pages.
 
 #### ***link*** 
-https://laynehansen.github.io/
+https://laynehansen.dev
 
 #### ***screenshot*** 
 ![main page](./src/assets/images/homepage-screenshot.png.png)
