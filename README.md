@@ -25,7 +25,7 @@ On the main page I utilize the html map feature to create clickable fields to ta
 https://laynehansen.github.io/
 
 #### ***screenshot*** 
-![main page](./src/assets/New_Portfolio_main_page.png)
+![main page](./src/assets/images/homepage-screenshot.png.png)
 
 ### **Profile**
 
