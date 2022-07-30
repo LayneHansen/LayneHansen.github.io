@@ -1,23 +1,35 @@
 self.__precacheManifest = [
   {
-    "revision": "9e0a815ec2032c79ebb2",
-    "url": "/static/css/main.6678f8ef.chunk.css"
+    "revision": "4eea2a329ad91905d8e7",
+    "url": "/static/css/main.46023daa.chunk.css"
   },
   {
-    "revision": "9e0a815ec2032c79ebb2",
-    "url": "/static/js/main.9e0a815e.chunk.js"
+    "revision": "4eea2a329ad91905d8e7",
+    "url": "/static/js/main.4eea2a32.chunk.js"
   },
   {
-    "revision": "38fd91a29a428f9a57a5",
-    "url": "/static/js/1.38fd91a2.chunk.js"
+    "revision": "6e8cb20e0c3e4335aa20",
+    "url": "/static/js/1.6e8cb20e.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "a2eeef2002d31e09aba30d1c64a8b16d",
-    "url": "/static/media/workDeskImage5.a2eeef20.jpg"
+    "revision": "fa6001d5e925825712adefc7dd8fb7da",
+    "url": "/static/media/painted-icon-trans.fa6001d5.png"
+  },
+  {
+    "revision": "2384c13f802d93a930033655122fb387",
+    "url": "/static/media/web_dev_icon.2384c13f.png"
+  },
+  {
+    "revision": "d8f70b021e2177bfe1a6bb4d9e1e2262",
+    "url": "/static/media/contact-icon.d8f70b02.png"
+  },
+  {
+    "revision": "cd535ca4be8b408511b0f7aa83aa35cd",
+    "url": "/static/media/Layne-art-style-overlay-flip.cd535ca4.jpg"
   },
   {
     "revision": "80cfae12dcd3c8bb1306b0791e4c9145",
@@ -92,7 +104,7 @@ self.__precacheManifest = [
     "url": "/static/media/workDeskImage4.e3702f05.jpg"
   },
   {
-    "revision": "85bc7a1d605ca66241732d2a19f15352",
+    "revision": "3131386ee5228e4b30dd1e1fd4eb5280",
     "url": "/index.html"
   }
 ];
