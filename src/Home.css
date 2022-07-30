@@ -44,12 +44,27 @@ h4 {
   
 }
 
+#profile-icon:hover {
+  transform: scale(1.2);
+  transition: all .2s ease-in-out;
+}
+
 #projects-icon {
   padding-left: 20px;
 }
 
+#projects-icon:hover {
+  transform: scale(1.2);
+  transition: all .2s ease-in-out;
+}
+
 #contact-icon {
   padding-left: 10px;
+}
+
+#contact-icon:hover {
+  transform: scale(1.2);
+  transition: all .2s ease-in-out;
 }
 
 #name-span {
@@ -129,6 +144,6 @@ h4 {
 }
 
 #profile-img-home {
-  padding-top: 75px;
+  padding-top: 30px;
   padding-left: 20px;
 }

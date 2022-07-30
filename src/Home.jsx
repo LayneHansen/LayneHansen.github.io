@@ -43,8 +43,8 @@ function Home() {
               <p>
                 I am a full-stack web developer. I code because I love it. I
                 teach coding because I want others to reach their goals the way
-                I was able to do. I work on my own projects. I help others. I am
-                looking to become a full-time developer.
+                I was able. I work on my own projects. I help others. I want 
+                to become a full-time web developer.
               </p>
               </div>
               <br />
@@ -96,7 +96,7 @@ function Home() {
           </Row>
           </Col>
           <Col md={5}>
-            <img src={profileImage} alt="" width="400" id="profile-img-home"/>
+            <img src={profileImage} alt="" width="450" id="profile-img-home"/>
           </Col>
       </Row>
     </Container>
