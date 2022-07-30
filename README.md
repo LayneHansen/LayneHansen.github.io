@@ -1,4 +1,8 @@
-# LayneHansen.github.io#
+# laynehansen.dev
+
+Note: This live app is not yet mobile-friendly. I am currently working on this feature.
+
+<br>
 
 ### Table of Contents
 
