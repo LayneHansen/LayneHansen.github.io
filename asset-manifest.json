@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.46023daa.chunk.css",
-  "main.js": "/static/js/main.4eea2a32.chunk.js",
-  "main.js.map": "/static/js/main.4eea2a32.chunk.js.map",
+  "main.css": "/static/css/main.d58b8774.chunk.css",
+  "main.js": "/static/js/main.ae64a6da.chunk.js",
+  "main.js.map": "/static/js/main.ae64a6da.chunk.js.map",
   "static/js/1.6e8cb20e.chunk.js": "/static/js/1.6e8cb20e.chunk.js",
   "static/js/1.6e8cb20e.chunk.js.map": "/static/js/1.6e8cb20e.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -28,8 +28,8 @@
   "static/media/sqllogo.png": "/static/media/sqllogo.1a350423.png",
   "static/media/mernlogo.png": "/static/media/mernlogo.1091d3fc.png",
   "static/media/workDeskImage4.jpg": "/static/media/workDeskImage4.e3702f05.jpg",
-  "static/css/main.46023daa.chunk.css.map": "/static/css/main.46023daa.chunk.css.map",
+  "static/css/main.d58b8774.chunk.css.map": "/static/css/main.d58b8774.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.4c18d34dec8cca6cd3cf15ba2b8b0da0.js": "/precache-manifest.4c18d34dec8cca6cd3cf15ba2b8b0da0.js",
+  "precache-manifest.602024a4139bd2269ed2e4ce5085b3b5.js": "/precache-manifest.602024a4139bd2269ed2e4ce5085b3b5.js",
   "service-worker.js": "/service-worker.js"
 }
