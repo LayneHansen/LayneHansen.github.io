@@ -58,7 +58,7 @@ h4 {
   font-size: 80px;
   font-weight: 900;
   padding-top: -20px;
-  text-shadow: 3px 3px rgb(33, 33, 33);
+  text-shadow: 3px 3px 6px rgb(33, 33, 33);
 }
 
 .tagline-span {
@@ -90,6 +90,7 @@ h4 {
 }
 
 #profile-header {
+  padding-top: 18px;
   padding-left: 20px;
 }
 
@@ -99,7 +100,8 @@ h4 {
 }  */
 
 #projects-header {
-  padding-left: 30px;
+  padding-top: 16px;
+  padding-left: 32px;
 }
 
 /* #projects-header:hover {
@@ -108,7 +110,8 @@ h4 {
 } */
 
 #contact-header {
-  padding-left: 15px;
+  padding-left: 12px;
+  padding-top: 12px;
 }
 
 /* #contact-header:hover {
@@ -119,11 +122,13 @@ h4 {
 #homepage-text {
   padding-top: 12px;
   color: white;
-  font-size: 16px;
+  font-size: 18px;
   text-align: justify;
+  text-shadow: 2px 2px rgb(33, 33, 33);
+  width: 610px;
 }
 
 #profile-img-home {
-  padding-top: 50px;
-  border-radius: 40px;
+  padding-top: 75px;
+  padding-left: 20px;
 }

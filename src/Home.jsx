@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import profileIcon from "../src/assets/images/painted-icon-trans.png";
 import projectIcon from "../src/assets/images/web_dev_icon.png";
 import contactIcon from "../src/assets/images/contact-icon.png";
-import profileImage from "../src/assets/LayneColor.jpg";
+import profileImage from "../src/assets/images/Layne-art-style-overlay-flip.jpg";
 import "./Home.css";
 // import workDeskImage from "../src/assets/workDeskImage5.jpg";
 
@@ -39,12 +39,15 @@ function Home() {
                 Dude
               </span>
               <br />
-              <p id="homepage-text">
+              <div id="homepage-text">
+              <p>
                 I am a full-stack web developer. I code because I love it. I
                 teach coding because I want others to reach their goals the way
-                I was able. I work on my own projects. I help others. I am
+                I was able to do. I work on my own projects. I help others. I am
                 looking to become a full-time developer.
               </p>
+              </div>
+              <br />
             </Col>
             {/* <Col md={5}></Col> */}
           </Row>
@@ -93,7 +96,7 @@ function Home() {
           </Row>
           </Col>
           <Col md={5}>
-            <img src={profileImage} alt="" width="360" id="profile-img-home"/>
+            <img src={profileImage} alt="" width="400" id="profile-img-home"/>
           </Col>
       </Row>
     </Container>

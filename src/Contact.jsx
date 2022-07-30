@@ -35,21 +35,21 @@ function Contact() {
   return (
     <div className="App">
       <Row>
-        <Col md={3}></Col>
-        <Col md={6}>
+        <Col md={2}></Col>
+        <Col md={10}>
           <div id="contact-me-header-div">
-            <h1 id="contact-me-header">Contact Me</h1>
+            <h1 id="contact-me-header">CONTACT ME</h1>
           </div>
         </Col>
-        <Col md={3}></Col>
+        {/* <Col md={4}></Col> */}
       </Row>
       <Row>
-        <Col md={3}></Col>
-        <Col md={6}>
+        <Col md={2}></Col>
+        <Col md={10}>
           <div id="contact-container">
-            <div>
+            {/* <div>
               <h3 id="contact-name">Layne D. Hansen</h3>
-            </div>
+            </div> */}
             <a href="mailto:laynehansen_dev@gmail.com">
             <div>
               <span class="contact-item">laynehansen_dev@gmail.com</span>
@@ -65,11 +65,11 @@ function Contact() {
             </div>
           </div>
         </Col>
-        <Col md={3}></Col>
+        {/* <Col md={4}></Col> */}
       </Row>
       <Row>
-        <Col md={3}></Col>
-        <Col md={6}>
+        <Col md={2}></Col>
+        <Col md={10}>
           <div>
             <OverlayTrigger
               placement="bottom"
@@ -145,7 +145,7 @@ function Contact() {
             </OverlayTrigger>
           </div>
         </Col>
-        <Col md={3}></Col>
+        {/* <Col md={4}></Col> */}
       </Row>
     </div>
   );
