@@ -28,21 +28,21 @@ h4 {
   font-weight: 600;
 }
 
-#profile-link {
+/* #profile-link {
   
-}
+} */
 
 #projects-link {
   padding-left: 20px;
 }
 
-#contact-link {
+/* #contact-link {
 
-}
+} */
 
-#profile-icon {
+/* #profile-icon {
   
-}
+} */
 
 #profile-icon:hover {
   transform: scale(1.2);
@@ -147,3 +147,17 @@ h4 {
   padding-top: 30px;
   padding-left: 20px;
 }
+
+/* Media breaks for reactivity */
+
+/* @media (max-width: 1399px) {
+  #name-span {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: -20px;
+    text-shadow: 3px 3px 6px rgb(33, 33, 33);
+  }
+  
+} */

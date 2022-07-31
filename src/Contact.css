@@ -24,8 +24,8 @@
     font-size: 20px;
 }
 
-#linkedin-logo {
-}
+/* #linkedin-logo {
+} */
 
 #linkedin-logo:hover {
     transform: scale(1.2);
@@ -41,18 +41,18 @@
     transition: all .2s ease-in-out;
 }
 
-#facebook-logo {
-    /* padding-left: 10px; */
-}
+/* #facebook-logo {
+    padding-left: 10px;
+} */
 
 #facebook-logo:hover {
     transform: scale(1.2);
     transition: all .2s ease-in-out;
 }
 
-#resume-logo {
-    /* padding-left: 10px; */
-}
+/* #resume-logo {
+    padding-left: 10px;
+} */
 
 #resume-logo:hover {
     transform: scale(1.2);
