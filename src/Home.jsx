@@ -10,7 +10,7 @@ import "./Home.css";
 
 function Home() {
   return (
-    <Container>
+    <Container fluid id='home-container'>
       <br />
       <Row>
         <Col md={1}></Col>
@@ -95,7 +95,7 @@ function Home() {
             {/* <Col md={5}></Col> */}
           </Row>
           </Col>
-          <Col md={5}>
+          <Col md={4}>
             <img src={profileImage} alt="" width="450" id="profile-img-home"/>
           </Col>
       </Row>
