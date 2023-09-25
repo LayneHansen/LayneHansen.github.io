@@ -13,7 +13,7 @@ function Home() {
     <Container fluid id='home-container'>
       <br />
       <Row>
-        <Col md={1}></Col>
+        <Col md={2}></Col>
         <Col md={6}>
           <div>
             <span id="name-is-span">Hi, my name is . . .</span>
@@ -95,9 +95,9 @@ function Home() {
             {/* <Col md={5}></Col> */}
           </Row>
           </Col>
-          <Col md={4}>
-            <img src={profileImage} alt="" width="450" id="profile-img-home"/>
-          </Col>
+        <Col md={4}>
+          <img src={profileImage} alt="" width="450" id="profile-img-home"/>
+        </Col>
       </Row>
     </Container>
   );
