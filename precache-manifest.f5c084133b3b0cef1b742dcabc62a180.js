@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "ae64a6daf4c89a516356",
-    "url": "/static/css/main.d58b8774.chunk.css"
+    "revision": "6b0cc0540fcfd0346700",
+    "url": "/static/css/main.6782f8b9.chunk.css"
   },
   {
-    "revision": "ae64a6daf4c89a516356",
-    "url": "/static/js/main.ae64a6da.chunk.js"
+    "revision": "6b0cc0540fcfd0346700",
+    "url": "/static/js/main.6b0cc054.chunk.js"
   },
   {
-    "revision": "6e8cb20e0c3e4335aa20",
-    "url": "/static/js/1.6e8cb20e.chunk.js"
+    "revision": "aefb7b14da29ba6fc65d",
+    "url": "/static/js/1.aefb7b14.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -46,6 +46,10 @@ self.__precacheManifest = [
   {
     "revision": "d16a9d4cb337b5f45299d68d2df3050f",
     "url": "/static/media/PasswordGenerator.d16a9d4c.png"
+  },
+  {
+    "revision": "0a00d32092345feb202613716b8bca01",
+    "url": "/static/media/Github_Finder_logo_2.0a00d320.png"
   },
   {
     "revision": "34c68c57b8cedbf66c2ea14becfc3ff8",
@@ -104,7 +108,7 @@ self.__precacheManifest = [
     "url": "/static/media/workDeskImage4.e3702f05.jpg"
   },
   {
-    "revision": "5a9a8602b6f13c9c79be989cff03ca24",
+    "revision": "210c7d9fb0142710b3f7423dc6663215",
     "url": "/index.html"
   }
 ];
